@@ -4,7 +4,7 @@
 </p>
 
 
-<h1 align="center" id="heading">:wave: Welcome to: LLM Engineering - Foundations to SLMs!</h1>
+<h1 align="center" id="heading">:wave: Welcome to LLM Engineering - Foundations to SLMs!</h1>
 
 
 Large Language Model Engineering (LLM Engineering) refers to the emerging best-practices and tools for pretraining, post-training, and optimizing LLMs prior to production deployment.
