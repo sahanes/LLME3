@@ -18,7 +18,7 @@ Pre- and post-training techniques include unsupervised pretraining, supervised f
 ## Course Modules
 This course teaches you the fundamentals of LLMs, and will quickly onramp you up to the practical LLM Engineering edge.  When you complete this course, you will understand how the latest Large and Small Language Models are built, and you'll be ready to build, ship, and share your very own.  <br/>
 ### Module 1: Transformer: Attention Is All You Need
-🤖 The Transformer Paper <br/>
+🤖 The Transformer <br/>
 🧐 Attention <br/>
 🔠 Embeddings <br/>
 ### Module 2: Practical LLM Mechanics
