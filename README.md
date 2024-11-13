@@ -4,48 +4,33 @@
 </p>
 
 
-<h1 align="center" id="heading">:wave: Welcome to LLM Engineering - The Foundations!</h1>
+<h1 align="center" id="heading">:wave: Welcome to: LLM Engineering - Foundations to SLMs!</h1>
 
-Welcome to the beginning of your journey to becoming an LLM Engineer! 🎉 Excited to have you on your way to becoming an LLME practitioner! 
+## Understand LLMs from first principles; build custom Small Language Models (SLMs)
 
-## What is LLM Engineering?
+🧑‍💻 *Language Model Engineering* refers to the evolving set of best practices for **training, fine-tuning**, and **aligning** LLMs to optimize their use and function to balance performance with efficiency.
 
-Data science and engineering teams around the world are being asked to train or fine-tune proprietary models. Everyone wants to build "ChatGPT for their data" and for their customers. To accomplish this, you need to know how OpenAI's GPT models were actually built, step-by-step.
+These best practices have formed the basis for the LLMs, or Large Language Models (a.k.a. Foundation Models) and Small Language Models (SLMs) of today.
 
-This course will provide you with the foundational concepts and code you need to get started training, fine-tuning, and aligning your own LLMs.
+🤖 Whether you’re looking at OpenAI’s GPT series, Anthropic Claude, Grok, Google Gemini, Mistral, or any other model provider, the core underlying transformer architectures are similar, as are the training and tuning methods.
 
-From there, it's up to you to make the business case, organize the data, and secure the compute to give your company and your career a competitive LLM advantage.
+When chasing after high scores on LLM benchmarks or creating state-of-the-art SLMs, techniques like **Model Merging** and **Distillation** are important as well.
 
-## 📚 About
+🏫 This course will provide you with the foundational concepts and code to train, fine-tune, and align state-of-the-art SLMs and LLMs using industry-standard and emerging approaches from the open-source edge heading into 2025.
 
-This GitHub repository is your gateway to mastering the art of training, fine-tuning, and aligning LLM models like a pro. All assignments for the course will be released here for your building, shipping, and sharing adventures!
+🤓 **Become the expert** in your organization on all things training (pretraining, post-training), fine-tuning (supervised fine-tuning, instruction tuning, chat tuning, etc.), alignment (PPO, DPO, etc.), Small Language Models (SLMs), Model Merging, Distillation, and more!
 
-In this repository, we will dive deep into the best practices and technologies that empower LLM Engineers, to harness the full potential of LLMs. Here are just a few of the key methods and tools we'll explore:
+## By the end of this course, you will be able to:
 
-#### LLME vs. MLE
-- Best-practice tokenization strategies
-- Understanding the role of embeddings
-- Transformers = Attention Is All You Need
-- Encoder/Decoder (BART-style)
-- Encoder only (BERT-style)
-- Decoder only (GPT-style)
-- Build encoder-decoder and decoder-only models from scratch
-
-#### LLM Training & Fine-Tuning
-- GPT: "Semi-supervised sequence learning"
-- GPT-2: "Zero-shot task transfer"
-- GPT-3: "In-context learning"
-- Understand datasets and benchmarks for training and tuning
-- Compare model architecture, training, scale, limitations, and impact
-- Implement unsupervised pretraining, supervised fine-tuning, and instruction-tuning
-
-#### LLM Alignment
-- InstructGPT: "Aligning LLMs with human intent"
-- Reference (supervised fine-tuned), Policy (target), and Reward models
-- Proximal policy optimization (PPO) algorithm
-- Reinforcement Learning with Human Feedback (RLHF)
-- Implement RLHF and RLAIF
-- Limitations and broader impacts
+- 🦾 Build, train, and evaluate Language Models using transformer variants (GPT, BERT, BART)
+- 🧐 Calculate self-attention and understand the latest implementations (Flash Attention, FA2)
+- 🔠 Demystify embedding layers, embedding representations, pre-trained vs. learned embeddings, ROPE, and more!
+- 🪙 Decode embedding space representations for optimal next-token prediction
+- 🔡 Build, train, and evaluate embedding models (like those in 🤗 Sentence Transformers)
+- 🚇 Complete unsupervised and continued pretraining of LLMs and SLMs from scratch
+- 🚉 Fine-tune pre-trained LMs for instruction-following, chat, and more via parameter-efficient methods
+- 🛤️ Align LMs to balance helpfulness with harmlessness and other criteria (RLXF, DPO)
+- 🚀 Explore frontiers of Language Models (Mixture-of- approaches, Model Merging, alternative fine-tuning, and more!)
 
 ## 🙏 Contributions
 
