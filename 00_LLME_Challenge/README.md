@@ -6,4 +6,14 @@
 
 <h1 align="center" id="heading">The LLM Engineering Challenge!</h1>
 
-You can find the Colab version of the LLME Challenge [here](https://colab.research.google.com/drive/16oeDV8RTpn_3irlZQmZ4yXZjkW_bvxfT?usp=sharing)!
+Welcome to the LLM Engineering Challenge!
+
+Your challenge, should you choose to accept it, is to build and ship a fine-tuned version of Llama 3; one that's good at summarization!
+
+You can find the Colab version of the LLME Challenge [here](https://colab.research.google.com/drive/16oeDV8RTpn_3irlZQmZ4yXZjkW_bvxfT?usp=sharing) and can see a [step-by-step walkthrough](https://img.youtube.com/vi/etdAcVJAoao/0.jpg) on YouTube
+
+[![YouTube Video](https://img.youtube.com/vi/etdAcVJAoao/0.jpg)](https://youtu.be/etdAcVJAoao?si=88RxVTtpSYhwkoTZ)
+
+After you ship, it's time to share!
+
+Post about your model in the [build-ship-share-🏗-🚢-🚀](https://discord.com/channels/1135695983720792216/1135700320517890131)on Discord!
