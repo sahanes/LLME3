@@ -21,14 +21,14 @@ Starting with [GPT2](https://cdn.openai.com/better-language-models/language_mode
 
 Let's see our input: 
 
-```python
-How many 'r's are in the word "Strawberry"?
+```
+"How many 'r's are in the word "Strawberry"?"
 ```
 
 And our output: 
 
-```python
-How many 'r's are in the word "Strawberry"?
+```
+"How many 'r's are in the word "Strawberry"?
 
 The answer is, of course, no.
 
@@ -47,12 +47,12 @@ We also have some additional post-training (alignment, etc.) that has been appli
 
 Our input remains the same, but this time our output is: 
 
-```python
-That's a tasty question!
+```
+"That's a tasty question!
 
 Let me count the "r's" for you: S-T-R-A-W-B-E-R-R-Y
 
-There are 3 "r's" in the word "Strawberry"!
+There are 3 "r's" in the word "Strawberry"!"
 ```
 
 Incredibly, we get the correct response!
@@ -63,8 +63,8 @@ With the advent of things like LoRA, QLoRA, and more, developers are able to lev
 
 Let's ask it the same question using the supervised fine-tuned model [Gen-Z-Translate-Llama-3-Instruct-v1](https://huggingface.co/ai-maker-space/gen-z-translate-llama-3-instruct-v1):
 
-```python
-I'ma count 'em for ya! There's like, 2 "r"s in the word "Strawberry", bruh.
+```
+"I'ma count 'em for ya! There's like, 2 "r"s in the word "Strawberry", bruh."
 ```
 
 We lose correctness, but gain a GenZ flavour of speech!
@@ -75,7 +75,7 @@ Next, we move on to a model that takes post-training to new heights! From alignm
 
 Let's ask it the same question we asked the other models, and see what it says:
 
-```python
+```
 The word "Strawberry" contains two 'r's.
 ```
 
@@ -87,7 +87,7 @@ Finally, let's stop at a model that has undergone extensive post-training (some 
 
 Let's ask OpenAI's [`o1`](https://chatgpt.com/) the same question, and see what happens:
 
-```python
+```
 Thought for a couple of seconds
 There are three 'r's in the word "Strawberry".
 ```
