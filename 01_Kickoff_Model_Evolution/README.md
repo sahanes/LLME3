@@ -97,3 +97,11 @@ There are three 'r's in the word "Strawberry".
 Model training has blossomed into an entire field - which we will try to cover in our time together - in the last few years. We can finally consistently get the correct answer to life's important questions, like: 
 
 `How many 'r's in the word "Strawberry"`
+
+## Quicklinks
+
+You can find session information for `Model Evolution` here!
+
+| Session | Homework | Session Video | Code | Slides                                                                                         
+| :-------- | :-------- | :-------- | :------------------------------------------------------------------------------------------------ | :-------- | :-------- 
+| Model Evolution |  |  | You are here! | |
