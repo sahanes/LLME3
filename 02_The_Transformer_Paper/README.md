@@ -8,10 +8,10 @@
 
 ### Quicklinks
 
-You can find session information for `Model Evolution` here!
+You can find session information for `Session 2: The Transformer Paper` here!
 
 | Session         | Homework                  | Session Video | Code            | Slides |
 |:----------------|:-------------------------|:--------------|:----------------|:-------|
-| TBA | TBA | TBA | You are here!   | TBA |
+| TBA | TBA | TBA | You are here! | TBA |
 
 ---
