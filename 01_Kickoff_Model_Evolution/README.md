@@ -6,6 +6,18 @@
 
 <h1 align="center" id="heading">How Models Have Evolved Over Time: "How many 'r's in strawberry" 🍓</h1>
 
+### Quicklinks
+
+You can find session information for `Model Evolution` here!
+
+| Session         | Homework                  | Session Video | Code            | Slides |
+|:----------------|:-------------------------|:--------------|:----------------|:-------|
+| [Cohort Kick-Off](https://www.notion.so/LLM-Engineering-Cohort-3-Home-Page-13dcd547af3d80feaf80f1a203e411c7?pvs=4#13ecd547af3d808c916dc7494e20cb2e) | Read [Attention is All You Need](https://arxiv.org/abs/1706.03762) | [Zoom Link](https://us02web.zoom.us/rec/share/9My2ifxlU7WPK5kzKLxceg5WqrbaaNksN8CWPVpMSkkhLCLQGszGndlJeTM-fLFw.a4Y9iz9eFlEzMzTe) (PW: pT$c3fCy)              | You are here!   |  [Slides](https://www.canva.com/design/DAGWfLzJLjU/jcP2nnJIUozdxw47M56SIA/edit?utm_content=DAGWfLzJLjU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) |
+
+---
+
+## Assignment
+
 Over time, we've changed and improved the way we thinking about and train models in practice. 
 
 From the earliest days of GPT, to the most recent developments like OpenAI `o1` model - model training prcoesses have undergone rapid transformation.
@@ -97,11 +109,3 @@ There are three 'r's in the word "Strawberry".
 Model training has blossomed into an entire field - which we will try to cover in our time together - in the last few years. We can finally consistently get the correct answer to life's important questions, like: 
 
 `How many 'r's in the word "Strawberry"`
-
-## Quicklinks
-
-You can find session information for `Model Evolution` here!
-
-| Session | Homework | Session Video | Code | Slides                                                                                         
-| :-------- | :-------- | :-------- | :------------------------------------------------------------------------------------------------ | :-------- | :-------- 
-| Model Evolution |  |  | You are here! | |
