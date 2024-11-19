@@ -1,8 +1,9 @@
 # Quicklinks - LLM Engineering: Foundations to SLMs
 
-You can **navigate individual session information easily** for `LLM Engineering: Foundations to SLMs`!
+Quicklinks are to help you **easily navigate individual session information** for `LLM Engineering: Foundations to SLMs`!  
 
-Of course, you can also find direct access to everything you need in the [Notion Home Page](https://www.notion.so/LLM-Engineering-Cohort-3-Home-Page-13dcd547af3d80feaf80f1a203e411c7)
+- We'll follow the [course schedule](https://www.notion.so/LLM-Engineering-Cohort-3-The-Foundations-Detailed-Schedule-12ecd547af3d80449b92c622d555fb19) as outlined throughout the cohort!
+- You can also access all [course materials](https://www.notion.so/LLM-Engineering-Cohort-3-Home-Page-13dcd547af3d80feaf80f1a203e411c7?pvs=4#13dcd547af3d81ee9085d748ce0241c5) via the [Notion Home Page](https://www.notion.so/LLM-Engineering-Cohort-3-Home-Page-13dcd547af3d80feaf80f1a203e411c7)
 
 | 📰 Session Sheet | ⏺️ Recording     | 🖼️ Slides        | 👨‍💻 Repo   | 📝 Homework      |
 |:-----------------|:-----------------|:-----------------|:-----------------|:-----------------|
