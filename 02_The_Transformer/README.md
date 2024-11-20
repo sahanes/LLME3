@@ -7,8 +7,8 @@
 
 ### [Quicklinks](https://github.com/AI-Maker-Space/LLM-Engineering-Foundations-to-SLMs/tree/main/00_AIM_Quicklinks)
 
-| 📰 Session Sheet | ⏺️ Recording     | 🖼️ Slides        | 👨‍💻 Repo         | 📝 Homework      |
-|:-----------------|:-----------------|:-----------------|:-----------------|:-----------------|
+| 📰 Session Sheet | ⏺️ Recording     | 🖼️ Slides        | 👨‍💻 Repo         | 📝 Homework      | 📁 Feedback       |
+|:-----------------|:-----------------|:-----------------|:-----------------|:-----------------|:-----------------|
 | [Session 2: The Transformer](https://www.notion.so/Session-2-The-Transformer-143cd547af3d80cda8c5f3404211c191) | [Recording](https://us02web.zoom.us/rec/share/vM5Skap8plyutphmdIs6BVDXB2gG4ObS9s0z5B7zG01MieTp5iB0UAQF2gM2_vf7.noILW0tp2Lf7OpZc) <br /> Passcode: .vZ0+2R+ | [Slides](https://www.canva.com/design/DAGW9drJwtU/d5pIdoSDGNoTHppA3i9Crg/view?utm_content=DAGW9drJwtU&utm_campaign=designshare&utm_medium=link&utm_source=editor) | You are here! | [Session 2 Assignment](https://forms.gle/xhtMBxmKLnHH76hK8) |
 
 ## A Note on How AIM Does Assignments:
