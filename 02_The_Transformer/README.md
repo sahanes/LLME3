@@ -9,7 +9,7 @@
 
 | 📰 Session Sheet | ⏺️ Recording     | 🖼️ Slides        | 👨‍💻 Repo         | 📝 Homework      |
 |:-----------------|:-----------------|:-----------------|:-----------------|:-----------------|
-| TBA | TBA | TBA | You are here! | [Session 2 Assignment: The Transformer](https://forms.gle/xhtMBxmKLnHH76hK8) |
+| [Session 2: The Transformer](https://www.notion.so/Session-2-The-Transformer-143cd547af3d80cda8c5f3404211c191) | TBA | TBA | You are here! | [Session 2 Assignment](https://forms.gle/xhtMBxmKLnHH76hK8) |
 
 ## A Note on How AIM Does Assignments:
 
