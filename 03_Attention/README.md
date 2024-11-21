@@ -7,6 +7,6 @@
 
 ### [Quicklinks](https://github.com/AI-Maker-Space/LLM-Engineering-Foundations-to-SLMs/tree/main/00_AIM_Quicklinks)
 
-| 📰 Session Sheet | ⏺️ Recording     | 🖼️ Slides        | 👨‍💻 Repo         | 📝 Homework      | 📁 Feedback       |
-|:-----------------|:-----------------|:-----------------|:-----------------|:-----------------|:-----------------|
-| TBD | TBD | TBD | You are here! | TBD |
+| 🤓 Pre-work | 📰 Session Sheet | ⏺️ Recording     | 🖼️ Slides        | 👨‍💻 Repo         | 📝 Homework      | 📁 Feedback       |
+|:-----------------|:-----------------|:-----------------|:-----------------|:-----------------|:-----------------|:-----------------|
+| TBD | TBD | TBD | TBD | You are here! | TBD | TBD |
