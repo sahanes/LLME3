@@ -9,4 +9,4 @@
 
 | 🤓 Pre-work | 📰 Session Sheet | ⏺️ Recording     | 🖼️ Slides        | 👨‍💻 Repo         | 📝 Homework      | 📁 Feedback       |
 |:-----------------|:-----------------|:-----------------|:-----------------|:-----------------|:-----------------|:-----------------|
-| TBD | TBD | TBD | TBD | You are here! | TBD | TBD |
+| [Session 3: Pre-Work](https://www.notion.so/Session-3-Attention-143cd547af3d80dba510e2c5f1577368?pvs=4#2dc3b43f036d48088a3984ce94e8e0ad) | TBD | TBD | TBD | You are here! | TBD | TBD |
