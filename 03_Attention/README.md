@@ -9,7 +9,7 @@
 
 | 🤓 Pre-work | 📰 Session Sheet | ⏺️ Recording     | 🖼️ Slides        | 👨‍💻 Repo         | 📝 Homework      | 📁 Feedback       |
 |:-----------------|:-----------------|:-----------------|:-----------------|:-----------------|:-----------------|:-----------------|
-| [Session 3: Pre-Work](https://www.notion.so/Session-3-Attention-143cd547af3d80dba510e2c5f1577368?pvs=4#2dc3b43f036d48088a3984ce94e8e0ad) | TBD | TBD | TBD | You are here! | [Session 3 Assignment: Attention](https://forms.gle/7cgCErqaNEZWiN7JA) | TBD |
+| [Session 3: Pre-Work](https://www.notion.so/Session-3-Attention-143cd547af3d80dba510e2c5f1577368?pvs=4#2dc3b43f036d48088a3984ce94e8e0ad) | [Session 3: Attention](https://www.notion.so/Session-3-Attention-Coming-Soon-143cd547af3d80dba510e2c5f1577368) | TBD | [Session 3: Attention & Flash Attention](https://www.canva.com/design/DAGXJDsxuyI/TcE_npmoqb-lVfWePfHOqA/edit?utm_content=DAGXJDsxuyI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) | You are here! | [Session 3 Assignment: Attention](https://forms.gle/7cgCErqaNEZWiN7JA) | [Feedback: LLME3 Cohort, Session 3](https://docs.google.com/forms/d/e/1FAIpQLSdUNzbZ50EXCkNrSkD6U0-pCYP9Uz3qcatBH9VYP-BE2mP9LQ/viewform) |
 
 ### Assignment:
 
