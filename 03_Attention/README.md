@@ -7,9 +7,9 @@
 
 ### [Quicklinks](https://github.com/AI-Maker-Space/LLM-Engineering-Foundations-to-SLMs/tree/main/00_AIM_Quicklinks)
 
-| 📰 Session Sheet | ⏺️ Recording     | 🖼️ Slides        | 👨‍💻 Repo         | 📝 Homework      | 📁 Feedback       |
-|:-----------------|:-----------------|:-----------------|:-----------------|:-----------------|:-----------------|
-| TBD | TBD | TBD | You are here! | TBD |
+| 🤓 Pre-work | 📰 Session Sheet | ⏺️ Recording     | 🖼️ Slides        | 👨‍💻 Repo         | 📝 Homework      | 📁 Feedback       |
+|:-----------------|:-----------------|:-----------------|:-----------------|:-----------------|:-----------------|:-----------------|
+| [Session 3: Pre-Work](https://www.notion.so/Session-3-Attention-143cd547af3d80dba510e2c5f1577368?pvs=4#2dc3b43f036d48088a3984ce94e8e0ad) | TBD | TBD | TBD | You are here! | TBD | TBD |
 
 ### Assignment:
 
@@ -23,4 +23,3 @@ You will be required to work through each:
 - 🏗️ Activity
 - 👪❓Discussion Question
 - ❓Question
-
