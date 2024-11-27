@@ -9,7 +9,7 @@
 
 | 🤓 Pre-work | 📰 Session Sheet | ⏺️ Recording     | 🖼️ Slides        | 👨‍💻 Repo         | 📝 Homework      | 📁 Feedback       |
 |:-----------------|:-----------------|:-----------------|:-----------------|:-----------------|:-----------------|:-----------------|
-| [Session 4: Pre-Work](https://www.notion.so/Session-4-Embeddings-143cd547af3d806f9b38fdaefba8e68d?pvs=4#a10ad6fa7a0a4342b51ea53fd486279f) | [Session 4: Embeddings](https://www.notion.so/Session-4-Embeddings-143cd547af3d806f9b38fdaefba8e68d#59fa9ae8a94141e3a66db9a5f90d5e40) | TBD | TBD |  You are here!| [Session 4 Assignment: Embeddings](https://forms.gle/WasbnoXXFEt8tUCb9) | [Feedback: LLME3 Cohort, Session 4](https://forms.gle/fmDsEj6J423y4BgSA)  |
+| [Session 4: Pre-Work](https://www.notion.so/Session-4-Embeddings-143cd547af3d806f9b38fdaefba8e68d?pvs=4#a10ad6fa7a0a4342b51ea53fd486279f) | [Session 4: Embeddings](https://www.notion.so/Session-4-Embeddings-143cd547af3d806f9b38fdaefba8e68d#59fa9ae8a94141e3a66db9a5f90d5e40) | TBD | [Session 4: Embeddings](https://www.canva.com/design/DAGXnKDginc/-g-2FCMJKDr2yhmUuuvVqg/view?utm_content=DAGXnKDginc&utm_campaign=designshare&utm_medium=link&utm_source=editor)  |  You are here!| [Session 4 Assignment: Embeddings](https://forms.gle/WasbnoXXFEt8tUCb9) | [Feedback: LLME3 Cohort, Session 4](https://forms.gle/fmDsEj6J423y4BgSA)  |
 
 ### Assignment
 
