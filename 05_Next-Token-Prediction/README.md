@@ -3,7 +3,7 @@
      height="auto"/>
 </p>
 
-<h1 align="center" id="heading">🔠 Session 5: Next Token Predicition</h1>
+<h1 align="center" id="heading">🪙 Session 5: Next Token Predicition</h1>
 
 ### [Quicklinks](https://github.com/AI-Maker-Space/LLM-Engineering-Foundations-to-SLMs/tree/main/00_AIM_Quicklinks)
 
