@@ -10,3 +10,24 @@
 | 🤓 Pre-work | 📰 Session Sheet | ⏺️ Recording     | 🖼️ Slides        | 👨‍💻 Repo         | 📝 Homework      | 📁 Feedback       |
 |:-----------------|:-----------------|:-----------------|:-----------------|:-----------------|:-----------------|:-----------------|
 | TBD | TBD | TBD | TBD  |  You are here! | TBD | TBD |
+
+### Assignment: 
+
+Today's assignment is available in Colab:
+- [Assignment](https://colab.research.google.com/drive/1U1FqxvG1U0mxKoTvJYa3KpUhRuk12LX8?usp=sharing)
+- [Hardmode Assignment](https://colab.research.google.com/drive/1mvf-UNbUCIoZlv4atDbEsYNk-RRlBO07?usp=sharing)
+
+Breakout Room #1: Logits to Tokens
+- Task 1: Dependencies 
+- Task 2: Generating Tokens!
+  - 🏗️ Activity #1:
+- Task 3: Data Preprocessing
+  - ❓Question #1
+- Task 4: Alternate Decoding Examples:
+  - 👪❓ Discussion Question #1
+
+Breakout Room #2: Speculative Decoding and Guard Rails
+- Task 5: Speculative Decoding
+  - ❓ Discussion Question #2
+- Task 6: Guard Rails
+  - 👪❓ Discussion Question #2
