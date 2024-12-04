@@ -9,7 +9,8 @@
 
 | 🤓 Pre-work | 📰 Session Sheet | ⏺️ Recording     | 🖼️ Slides        | 👨‍💻 Repo         | 📝 Homework      | 📁 Feedback       |
 |:-----------------|:-----------------|:-----------------|:-----------------|:-----------------|:-----------------|:-----------------|
-| TBD | TBD | TBD | TBD  |  You are here! | TBD | TBD |
+| [Session 5: Pre-Work](https://www.notion.so/Session-5-Next-Token-Prediction-Coming-Soon-143cd547af3d8050924afd6a91abf609?pvs=4#2bd78818c2014fb08e7048c22bd28a49) | [Session 5: Next-Token Prediction](https://www.notion.so/Session-5-Next-Token-Prediction-Coming-Soon-143cd547af3d8050924afd6a91abf609#2bd78818c2014fb08e7048c22bd28a49) | TBD | TBD  |  You are here! | [Session 5 Assignment: Next-Token Prediction](https://forms.gle/ptKnENAqUUmkpqyg7) | [Feedback: LLME3 Cohort, Session 5](https://forms.gle/c3ZnsAGZm78xoAUr9) |
+
 
 ### Assignment: 
 
