@@ -39,3 +39,4 @@ Today's Notebook will take us through the following tasks:
     - 👪❓Discussion Question #2
 
 - Here the RoPE Postional Encoding Demo: https://colab.research.google.com/drive/1UydE-TSGH5_Z0gUvyJYoOsIO3im6ECoB?usp=sharing
+- Here is my assignments for Embedding practices: https://colab.research.google.com/drive/1C2n4nCN5k_id_HmXVhS7hyJ1W0e6Ustg?usp=sharing
