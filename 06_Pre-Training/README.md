@@ -9,7 +9,8 @@
 
 | 🤓 Pre-work | 📰 Session Sheet | ⏺️ Recording     | 🖼️ Slides        | 👨‍💻 Repo         | 📝 Homework      | 📁 Feedback       |
 |:-----------------|:-----------------|:-----------------|:-----------------|:-----------------|:-----------------|:-----------------|
-| TBD | TBD | TBD | TBD  |  You are here! | TBD | TBD |
+| [Session 6: Pre-Work](https://www.notion.so/Session-6-Pretraining-Coming-Soon-143cd547af3d80d68209d741df67fd17?pvs=4#bae245a8e85a4c7e931fd82086e895b5) | [Session 6: pre-training](https://www.notion.so/Session-6-Pretraining-Coming-Soon-143cd547af3d80d68209d741df67fd17) | TBD | TBD  | You Are Here! | [Session 6 Assignment: Pre-training](https://forms.gle/ZhEpfYomrRTX6htFA) |  [Feedback: LLME3 Cohort, Session 6](https://forms.gle/5QbKz9PKbdxDiqAS7) |
+
 
 ### Assignment: 
 
