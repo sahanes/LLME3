@@ -37,3 +37,4 @@ Below are the links to the Colab Notebooks (this will require GPUs with at least
 
 - [Standard Assignment](https://colab.research.google.com/drive/1gdzYi9PUqZnc80z3M_omIsLOpQ254xtu?usp=sharing): Complete the notebook, including all ❓Questions. 
 - [Hardmode Assignment](https://colab.research.google.com/drive/1CInxjTSpqG5dSgg234TrYge9XSCshyQN?usp=sharing): Complete the notebook, including all 🏗️ Activities, and ❓Questions.
+- Here my submission: https://colab.research.google.com/drive/1YjfRGgvWibXRimDiMTEQGYiRSixmvlCZ?usp=sharing
