@@ -32,3 +32,4 @@ Breakout Room #2: Speculative Decoding and Guard Rails
   - ❓ Discussion Question #2
 - Task 6: Guard Rails
   - 👪❓ Discussion Question #2
+My assignment: https://colab.research.google.com/drive/1C5ZakrGsV_bskq7EyftTuiU2B9HwgKDl?usp=sharing
