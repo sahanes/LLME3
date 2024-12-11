@@ -16,8 +16,8 @@
 
 Today's assignments are available in Colab:
 - Assignment #1: 
-    - [Assignment (Coming Soon!)]()
-    - [Hardmode Assignment (Coming Soon!)]()
+    - [Assignment](https://colab.research.google.com/drive/18KDy41LCsTKpg6M03A94VkGqRuVJx4yA?usp=sharing)
+    - [Hardmode Assignment](https://colab.research.google.com/drive/1lXa2jU2_7aEduHI5x2TWZ5x3VawLKSKa?usp=sharing)
 
 1. Breakout Room #1:
   - Task #1: Loading the Model
