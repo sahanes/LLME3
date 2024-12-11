@@ -34,3 +34,13 @@ Today's assignments are available in Colab:
     - ❓ Question #5
   - Task #5: Share Your Model!
     - ❓ Question #6
+   
+### Hardmode:
+
+Take the [base](https://huggingface.co/meta-llama/Llama-3.1-8B) Llama 3.1 8B model and instruction-tune it using TRL on [this](https://huggingface.co/datasets/yahma/alpaca-cleaned) instruction following dataset. 
+
+Evaluate your final model using the Eleuther AI's [`lm-evaluation-harness`](https://github.com/EleutherAI/lm-evaluation-harness/tree/main) on the [`IFEval`](https://github.com/EleutherAI/lm-evaluation-harness/blob/main/lm_eval/tasks/ifeval/README.md) task.
+
+Report the baseline Llama 3.1 8B model's performance and your model's performance, then compare and contrast your results with Llama 3.1 8B Instruct.
+
+> NOTE: This will consume a large volume of compute credits - and take a long time! Only embark on this journey if you really want to get deep into the weeds!
