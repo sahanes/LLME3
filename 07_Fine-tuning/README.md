@@ -9,7 +9,7 @@
 
 | 🤓 Pre-work | 📰 Session Sheet | ⏺️ Recording     | 🖼️ Slides        | 👨‍💻 Repo         | 📝 Homework      | 📁 Feedback       |
 |:-----------------|:-----------------|:-----------------|:-----------------|:-----------------|:-----------------|:-----------------|
-| [Session 7: Pre-Work](https://www.notion.so/Session-7-Fine-Tuning-Coming-Soon-143cd547af3d80a9af10fade95ad3a20?pvs=4#d21a3fa3f2684b4db256c708336c6712) | [Session 7: Fine-Tuning](https://www.notion.so/Session-7-Fine-Tuning-Coming-Soon-143cd547af3d80a9af10fade95ad3a20) | TBD | TBD | You Are Here!  | TBD | TBD | TBD |
+| [Session 7: Pre-Work](https://www.notion.so/Session-7-Fine-Tuning-Coming-Soon-143cd547af3d80a9af10fade95ad3a20?pvs=4#d21a3fa3f2684b4db256c708336c6712) | [Session 7: Fine-Tuning](https://www.notion.so/Session-7-Fine-Tuning-Coming-Soon-143cd547af3d80a9af10fade95ad3a20) | TBD | TBD | You Are Here!  | [Session 7 Assignment: Fine-Tuning](https://forms.gle/oiyErT4ZZgkm6gfN6) |  [Feedback: LLME3 Cohort, Session 7](https://forms.gle/6MvFhqA29L3FAsbY8) |
 
 
 ### Assignment: 
