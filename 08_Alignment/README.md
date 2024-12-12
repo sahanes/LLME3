@@ -9,7 +9,7 @@
 
 | 🤓 Pre-work | 📰 Session Sheet | ⏺️ Recording     | 🖼️ Slides        | 👨‍💻 Repo         | 📝 Homework      | 📁 Feedback       |
 |:-----------------|:-----------------|:-----------------|:-----------------|:-----------------|:-----------------|:-----------------|
-| TBD | TBD | TBD | TBD | You Are Here!  | TBD | TBD |
+| [Session 8: Pre-Work](https://www.notion.so/Session-8-Alignment-Coming-Soon-143cd547af3d8020820ac4f21a3068b5?pvs=4#e80e2e6ae82d4540adba08edd1a3b6bc) | [Session 8: Alignment ](https://www.notion.so/Session-8-Alignment-Coming-Soon-143cd547af3d8020820ac4f21a3068b5)  | TBD | TBD | You Are Here!  | TBD | TBD |
 
 ### Assignment: 
 
