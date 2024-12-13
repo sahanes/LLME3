@@ -15,7 +15,8 @@
 
 Today's assignments are available in Colab:
 - Assignment #1: 
-    - [Assignment (Coming Soon!)]()
+    - [Notebook #1 Assignment](https://colab.research.google.com/drive/1h4xq7cfBv9Gg_YPWvEPblP6fuCK2vjQy?usp=sharing)
+    - [Notebook #2 Assignment](https://colab.research.google.com/drive/11qCfcABsxjjde7EihH6nHMH96aNBNONL?usp=sharing)
    
 ### Hardmode:
 
