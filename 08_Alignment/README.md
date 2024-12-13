@@ -9,7 +9,7 @@
 
 | 🤓 Pre-work | 📰 Session Sheet | ⏺️ Recording     | 🖼️ Slides        | 👨‍💻 Repo         | 📝 Homework      | 📁 Feedback       |
 |:-----------------|:-----------------|:-----------------|:-----------------|:-----------------|:-----------------|:-----------------|
-| [Session 8: Pre-Work](https://www.notion.so/Session-8-Alignment-Coming-Soon-143cd547af3d8020820ac4f21a3068b5?pvs=4#e80e2e6ae82d4540adba08edd1a3b6bc) | [Session 8: Alignment ](https://www.notion.so/Session-8-Alignment-Coming-Soon-143cd547af3d8020820ac4f21a3068b5)  | TBD | TBD | You Are Here!  | [Session 8 Assignment: Alignment](https://forms.gle/g2kad4tuPEkzcWSW6) |  [Feedback: LLME3 Cohort, Session 8](https://forms.gle/aKRjP61cWuyoWRiD7) |
+| [Session 8: Pre-Work](https://www.notion.so/Session-8-Alignment-Coming-Soon-143cd547af3d8020820ac4f21a3068b5?pvs=4#e80e2e6ae82d4540adba08edd1a3b6bc) | [Session 8: Alignment ](https://www.notion.so/Session-8-Alignment-Coming-Soon-143cd547af3d8020820ac4f21a3068b5)  | TBD |  [Session 8: Alignment](https://www.canva.com/design/DAGZHXVSNBE/ONsOxzgCW8Pqj5YFHfvP2Q/edit?utm_content=DAGZHXVSNBE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)  | You Are Here!  | [Session 8 Assignment: Alignment](https://forms.gle/g2kad4tuPEkzcWSW6) |  [Feedback: LLME3 Cohort, Session 8](https://forms.gle/aKRjP61cWuyoWRiD7) |
 
 ### Assignment: 
 
