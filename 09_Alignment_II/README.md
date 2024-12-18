@@ -9,8 +9,7 @@
 
 | 🤓 Pre-work | 📰 Session Sheet | ⏺️ Recording     | 🖼️ Slides        | 👨‍💻 Repo         | 📝 Homework      | 📁 Feedback       |
 |:-----------------|:-----------------|:-----------------|:-----------------|:-----------------|:-----------------|:-----------------|
-| |  |   |  | You Are Here!  | |  |
-
+| [Session 9: Pre-Work](https://www.notion.so/Session-9-Alignment-II-and-Merging-Coming-Soon-14acd547af3d80ebb1abec174b856ee9?pvs=4#e9bec831393f4c58a5febd7cc5eb99f8) | [Session 9: Alignment II and Merging](https://www.notion.so/Session-9-Alignment-II-and-Merging-Coming-Soon-14acd547af3d80ebb1abec174b856ee9) | [Recording]  () | [Session 9: Alignment II and Merging] | You Are Here!  |  [Session 9 Assignment: Alignment II and Merging] |  [Feedback: LLME3 Cohort, Session 9](https://forms.gle/uzd28Xm6TWVVZFkE9) |
 ### Assignment: 
 
 Today's assignments are available in Colab:
