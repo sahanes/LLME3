@@ -44,3 +44,5 @@ Evaluate your final model using the Eleuther AI's [`lm-evaluation-harness`](http
 Report the baseline Llama 3.1 8B model's performance and your model's performance, then compare and contrast your results with Llama 3.1 8B Instruct.
 
 > NOTE: This will consume a large volume of compute credits - and take a long time! Only embark on this journey if you really want to get deep into the weeds!
+>
+Visualization for Double Quantization: https://excalidraw.com/#room=165f9b96a09f98a51fa2,2DNP4LfhVp6vI_lopOtDWQ

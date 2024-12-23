@@ -17,3 +17,5 @@ You can find the Colab version of the LLME Challenge [here](https://colab.resear
 After you ship, it's time to share!
 
 Post about your model in the [build-ship-share-🏗-🚢-🚀](https://discord.com/channels/1135695983720792216/1135700320517890131)on Discord!
+
+Here is my Challenge for Legal summerization using Fine tunned Llama 3.8 B Instruct: https://colab.research.google.com/drive/1rT0y_B4nRjsygEkdSv2vf0qakPPtgS_W?usp=sharing

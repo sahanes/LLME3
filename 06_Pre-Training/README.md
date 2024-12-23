@@ -34,3 +34,5 @@ Today's assignments are available in Colab:
 - Breakout Room #2: 
   - Using 🤗 `transformers`
     - 👪❓ Discussion Question #1
+
+CrossEntropy: https://colab.research.google.com/drive/1KolF6kL7MDr0c7GwTYG3pArqKHGy5ObD?usp=sharing
